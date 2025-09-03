@@ -5,28 +5,28 @@ function Gallery() {
   const products = [
     {
       id: 1,
-      image: "/src/assets/postHamburguesa.png",
+      image: "/assets/postHamburguesa.png",
       title: "Hamburguesa Especial",
       description: "Carne 100% premium con queso cheddar, lechuga y tomate",
       price: 12.99
     },
     {
       id: 2,
-      image: "/src/assets/sandwichGrillado.png",
+      image: "/assets/sandwichGrillado.png",
       title: "Sandwich Grillado",
       description: "Pollo grillado con vegetales frescos y salsa especial",
       price: 10.99
     },
     {
       id: 3,
-      image: "/src/assets/postHamburguesa.png", // Puedes agregar más imágenes
+      image: "/assets/postHamburguesa.png", // Puedes agregar más imágenes
       title: "Hamburguesa Clásica",
       description: "La hamburguesa tradicional con todos los ingredientes clásicos",
       price: 9.99
     },
     {
       id: 4,
-      image: "/src/assets/sandwichGrillado.png",
+      image: "/assets/sandwichGrillado.png",
       title: "Sandwich Premium",
       description: "Doble carne con bacon crujiente y queso fundido",
       price: 13.99

@@ -15,7 +15,7 @@ function Footer() {
           <div className="text-center md:text-left">
             <div className="flex justify-center md:justify-start mb-4">
               <img 
-                src="/src/assets/LogoFondoTransparente.png" 
+                src="/assets/LogoFondoTransparente.png"
                 alt="Logo" 
                 className="h-21 w-auto brightness-0 invert"
               />

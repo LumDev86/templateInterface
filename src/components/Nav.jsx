@@ -2,7 +2,7 @@ function Nav() {
   return (
     <nav 
       className="relative h-64 bg-cover bg-center flex items-center"
-      style={{ backgroundImage: "url('/src/assets/bannerHero.png')" }}
+      style={{ backgroundImage: "url('/assets/bannerHero.png')" }}
     >
       {/* Overlay más claro para que el logo destaque mejor */}
       <div className="absolute inset-0 bg-black bg-opacity-30"></div>
@@ -14,7 +14,7 @@ function Nav() {
           <div className="flex justify-start">
             <div className="bg-white bg-opacity-20 backdrop-blur-md p-2 rounded-lg">
               <img 
-                src="/src/assets/Logo.png" 
+                src="/assets/Logo.png" 
                 alt="Logo" 
                 className="h-20 w-auto border-2 border-white border-opacity-50 rounded-lg p-1"
               />
